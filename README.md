@@ -23,3 +23,6 @@
 
 ## Contribution information
 Commit titles are based on [GitMoji](https://github.com/carloscuesta/gitmoji). If you've got something to contribute to this repository, feel free to clone it and create a pull request with all your changes.
+
+## Repository stats
+![Repobeats](https://repobeats.axiom.co/api/embed/797cc1ee137c96b3a147cc434191dc9f711a0cab.svg "Repobeats analytics image")
