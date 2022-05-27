@@ -5,7 +5,7 @@
 ## Icons currently in this repository
 
 | Repository | Author | License | Icon count | Extra information |
-|-|-|-|-|-|-|
+|-|-|-|-|-|
 | [Ant Design Icons](https://github.com/ant-design/ant-design-icons) | [Ant Design](https://github.com/ant-design) | [MIT](https://github.com/ant-design/ant-design-icons/blob/master/LICENSE) | 788 |   |
 | [Ant Design Icons Filled](https://github.com/ant-design/ant-design-icons) | [Ant Design](https://github.com/ant-design) | [MIT](https://github.com/ant-design/ant-design-icons/blob/master/LICENSE) | 218 |  Subset of Ant Design Icons |
 | [Ant Design Icons Outlined](https://github.com/ant-design/ant-design-icons) | [Ant Design](https://github.com/ant-design) | [MIT](https://github.com/ant-design/ant-design-icons/blob/master/LICENSE) | 420 |  Subset of Ant Design Icons |
